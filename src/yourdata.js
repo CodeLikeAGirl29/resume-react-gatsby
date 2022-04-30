@@ -13,14 +13,12 @@ import linkedinIcon from "./images/linkdin.svg"
 import instagramIcon from "./images/instagram.svg"
 
 export default {
+
   //   Header Details ---------------------
   name: "lindsey",
   headerTagline: [
-    //Line 1 For Header
-    "Full-stack",
-    //Line 2 For Header
+    "full-stack",
     "web",
-    //Line 3 For Header
     "development",
   ],
   //   Header Paragraph
@@ -35,8 +33,9 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "milkshakeExpress", //Project Title - Add Your Project Title Here
-      para: "Built with Node, Express JWT and MongoDB.", // Add Your Service Type Here
+      title: "milkshakeExpress",
+      para:
+        "Built with Node, Express JWT and MongoDB.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1645749209/milkshakesExpress_flgd84.png",
@@ -44,9 +43,9 @@ export default {
       url: "https://github.com/CodeLikeAGirl29/milkshakesExpress",
     },
     {
-      title: "BMW Blog", //Project Title - Add Your Project Title Here
+      title: "BMW Blog",
       para:
-        "An informative blog about the luxury car - BMW. Demonstrating my abilities with HTML/CSS and JavaScript.", // Add Your Service Type Here
+        "An informative blog about the luxury car - BMW. Demonstrating my abilities with HTML/CSS and JavaScript.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1647244306/ScreenShot_Tool_-20220314035130_bq0ywc.png",
@@ -54,9 +53,9 @@ export default {
       url: "https://codelikeagirl29.github.io/my-blog/",
     },
     {
-      title: "City Tours", //Project Title - Add Your Project Title Here
+      title: "City Tours",
       para:
-        "Made to demonstrate my understanding of Reactjs. :) I've created a card-like theme that presents the user with a list of cities and a description of the city. Theres also an Attractions slide that shows user's a list of attractions for each city.", // Add Your Service Type Here
+        "Made to demonstrate my understanding of Reactjs. :) I've created a card-like theme that presents the user with a list of cities and a description of the city. Theres also an Attractions slide that shows user's a list of attractions for each city.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1645750581/ScreenShot_Tool_-20220224195543_fkjmjr.png",
@@ -64,9 +63,9 @@ export default {
       url: "https://city-tours-seven.vercel.app/",
     },
     {
-      title: "Adventure Planner", //Project Title - Add Your Project Title Here
+      title: "Adventure Planner",
       para:
-        "An app using OpenWeatherMap, Hiking Project, and Google Maps API to search nearby hiking trails.", // Add Your Service Type Here
+        "An app using OpenWeatherMap, Hiking Project, and Google Maps API to search nearby hiking trails.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1645749312/ADVENTURE_s0qxhs.png",
@@ -74,9 +73,9 @@ export default {
       url: "http://adventure-planner.vercel.app/",
     },
     {
-      title: "Student Directory", //Project Title - Add Your Project Title Here
+      title: "Student Directory",
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1645749312/students-pagination_gbwcmc.png",
@@ -84,29 +83,31 @@ export default {
       url: "https://students-pagination-list.netlify.app/",
     },
     {
-      title: "Express Projects", //Project Title - Add Your Project Title Here
-      para: "An express, node and pug app displaying my javascript projects.", // Add Your Service Type Here
+      title: "Express Projects",
+      para:
+        "An express, node and pug app displaying my javascript projects.",
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1647274956/Web_capture_14-3-2022_122213_express-node-pug.herokuapp.com_qp28jf.jpg",
       //Project URL - Add Your Project Url Here
-      url: "https://express-node-pug.herokuapp.com/",
+      url: "https://github.com/codelikeagirl29/nodejs-and-express/",
     },
     {
-      title: "Paws & Claws for Express",
+      title: "Paws & Claws",
       para:
         "Built a (fictional and serverless) non-profit group representing dog lovers as a local community. Built with express, and nodejs.",
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1650054974/ScreenShot_Tool_-20220415163525_mjgzjg.png",
       url: "https://github.com/CodeLikeAGirl29/paws-claws-express",
     },
+
   ],
 
   // End Work Section -----------------------
 
   // About Secton --------------
   aboutParaOne:
-    "Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering five years of related experience.",
+    "Relentless Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering five years of related experience.",
   aboutParaTwo:
     "As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for creating things, and my mission-driven work ethic to complete my objectives.",
   aboutParaThree:
