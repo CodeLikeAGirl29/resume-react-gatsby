@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `lindsey howard - developer`,
-    description: `Full-stack developer based in raleigh, nc.`,
+    description: `full-stack developer based in raleigh, nc.`,
     author: `lindsey <codelikeagirl91@gmail.com>`,
   },
   plugins: [
