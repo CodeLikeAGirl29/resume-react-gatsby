@@ -25,7 +25,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "I am a dynamic Full Stack Software Developer based in Raleigh, NC. Experienced coding bootcamp graduate with extensive background in various coding languages, developing mobile applications, and building websites from the ground up. Professional strengths include creative problem-solving, written and verbal communication, and time management. Detail-oriented mindset from 5+ years of experience in the marketing/sales industry.",
+    "I am a strategic and creative website developer who specializes in delivering highly impactful websites. I have strong technical skills and experience in web development, software development, and project management. I have a proven track record of consistently meeting deadlines and maximizing results. I am a team player who is able to work effectively in a fast-paced environment.",
 
   //Contact Email
   contactEmail: "codelikeagirl91@gmail.com",
@@ -45,8 +45,7 @@ export default {
     },
     {
       title: "BMW Blog", //Project Title - Add Your Project Title Here
-      para:
-        "An informative blog about the luxury car - BMW. Demonstrating my abilities with HTML/CSS and JavaScript.", // Add Your Service Type Here
+      para: "An informative blog about the luxury car - BMW. Demonstrating my abilities with HTML/CSS and JavaScript.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1647244306/ScreenShot_Tool_-20220314035130_bq0ywc.png",
@@ -55,8 +54,7 @@ export default {
     },
     {
       title: "City Tours", //Project Title - Add Your Project Title Here
-      para:
-        "Made to demonstrate my understanding of Reactjs. :) I've created a card-like theme that presents the user with a list of cities and a description of the city. Theres also an Attractions slide that shows user's a list of attractions for each city.", // Add Your Service Type Here
+      para: "Made to demonstrate my understanding of Reactjs. :) I've created a card-like theme that presents the user with a list of cities and a description of the city. Theres also an Attractions slide that shows user's a list of attractions for each city.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1645750581/ScreenShot_Tool_-20220224195543_fkjmjr.png",
@@ -65,8 +63,7 @@ export default {
     },
     {
       title: "Adventure Planner", //Project Title - Add Your Project Title Here
-      para:
-        "An app using OpenWeatherMap, Hiking Project, and Google Maps API to search nearby hiking trails.", // Add Your Service Type Here
+      para: "An app using OpenWeatherMap, Hiking Project, and Google Maps API to search nearby hiking trails.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1645749312/ADVENTURE_s0qxhs.png",
@@ -75,8 +72,7 @@ export default {
     },
     {
       title: "Student Directory", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      para: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1645749312/students-pagination_gbwcmc.png",
@@ -94,8 +90,7 @@ export default {
     },
     {
       title: "Paws & Claws",
-      para:
-        "Built a (fictional and serverless) non-profit group representing dog lovers as a local community. Built with express, and nodejs.",
+      para: "Built a (fictional and serverless) non-profit group representing dog lovers as a local community. Built with express, and nodejs.",
       imageSrc:
         "https://res.cloudinary.com/codelikeagirl29/image/upload/v1650054974/ScreenShot_Tool_-20220415163525_mjgzjg.png",
       url: "https://github.com/CodeLikeAGirl29/paws-claws-express",
@@ -103,7 +98,8 @@ export default {
     {
       title: "Image Search",
       para: "An image search tool that implements the Unsplash API into a React app.",
-      imageSrc: "https://camo.githubusercontent.com/c1bdefbbf623e80dc49bbddff3f363072d21325cf187017ab40183be0d2bc1ae/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f636f64656c696b65616769726c32392f696d6167652f75706c6f61642f76313635343831343133302f756e73706c61736861706973637265656e73686f745f6e786e326a672e706e67",
+      imageSrc:
+        "https://camo.githubusercontent.com/c1bdefbbf623e80dc49bbddff3f363072d21325cf187017ab40183be0d2bc1ae/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f636f64656c696b65616769726c32392f696d6167652f75706c6f61642f76313635343831343133302f756e73706c61736861706973637265656e73686f745f6e786e326a672e706e67",
       url: "https://xhffdr.csb.app/",
     },
   ],
@@ -112,7 +108,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of process with ease. Collaborative team player with excellent technical abilities offering five years of related experience.",
+    "I've always been passionate about creating things and solving complex problems. When I discovered I could do both on the web, I was hooked. I've made websites for friends and family, and I even freelanced for a while. Now, I'm looking for a full-time role where I can really sink my teeth in and make an impact.",
   aboutParaTwo:
     "As a developer, I enjoy using my obsessive attention to detail, my unequivocal love for creating things, and my mission-driven work ethic to complete my objectives.",
   aboutParaThree:
@@ -129,33 +125,27 @@ export default {
   skills: [
     {
       img: htmlIcon,
-      para:
-        "Can complete end-to-end coding of websites. They direct HTML projects, develop web applications, code sites, and provide support to website users.",
+      para: "Can complete end-to-end coding of websites. They direct HTML projects, develop web applications, code sites, and provide support to website users.",
     },
     {
       img: cssIcon,
-      para:
-        "A professionals whose primary responsibility is to deliver a polished and styled product to the visitor's browser. Practically every website uses CSS, but CSS is often not considered an “equal” in the modern web development stack.",
+      para: "A professionals whose primary responsibility is to deliver a polished and styled product to the visitor's browser. Practically every website uses CSS, but CSS is often not considered an “equal” in the modern web development stack.",
     },
     {
       img: jsIcon,
-      para:
-        "Responsible for implementing the front-end logic that defines the behavior of the visual elements of a web application &  connecting this with the services that reside on the back-end.",
+      para: "Responsible for implementing the front-end logic that defines the behavior of the visual elements of a web application &  connecting this with the services that reside on the back-end.",
     },
     {
       img: reactIcon,
-      para:
-        "Builds modern-day UI components to improvise application performance. Can leverage their knowledge about JavaScript, HTML, CSS and work closely with testers, designers, web designers, and project managers to create a robust and effective application.",
+      para: "Builds modern-day UI components to improvise application performance. Can leverage their knowledge about JavaScript, HTML, CSS and work closely with testers, designers, web designers, and project managers to create a robust and effective application.",
     },
     {
       img: postgresIcon,
-      para:
-        "Implement and maintain database code in the form of stored procedures, scripts, queries, views, triggers, etc. Work closely with the CTO to implement effective and maintainable database coding practices that form an architectural foundation. Work with front end developers to define simple yet powerful APIs.",
+      para: "Implement and maintain database code in the form of stored procedures, scripts, queries, views, triggers, etc. Work closely with the CTO to implement effective and maintainable database coding practices that form an architectural foundation. Work with front end developers to define simple yet powerful APIs.",
     },
     {
       img: codeIcon,
-      para:
-        "Someone who can work on both the back-end and front-end of systems. This means that I can develop fully fledged platforms (with databases, servers and clients) which don't need other applications to function.",
+      para: "Someone who can work on both the back-end and front-end of systems. This means that I can develop fully fledged platforms (with databases, servers and clients) which don't need other applications to function.",
     },
   ],
 
