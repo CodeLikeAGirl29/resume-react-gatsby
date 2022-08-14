@@ -1,41 +1,49 @@
+@import url("https://fonts.googleapis.com/css?family=Inconsolata|Source+Sans+Pro:200,300,400,600");
+
 .card {
-    width: 100%;
-    height: 250px;
-    overflow: hidden !important;
+  width: 100%;
+  height: 250px;
+  overflow: hidden !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  .content {
+    font-family: "Raleway", sans-serif;
+    opacity: 0;
+    position: absolute;
     display: flex;
-    align-items: center;
     justify-content: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    .content {
-        font-family: "Raleway", sans-serif;
-        text-align: center;
-        padding: 10px;
-        opacity: 5;
-        transition: all 500ms ease-in-out;
-        transform: translate(0, 20px);
-        cursor: pointer;
-        background-color: #f0ebf4;
-        padding: 16px 32px;
-        h1 {
-            font-size: 14px;
-            color: black;
-        }
-        p {
-            font-size: 10px;
-            color: black;
-            margin-bottom: 20px;
-        }
-        .btn {
-            background-color: black;
-            color: white;
-            padding: 10px;
-            text-decoration: none;
-        }
-        &:hover {
-            opacity: 1;
-            transform: translate(0, 0px);
-        }
+    align-items: center;
+    width: 10px;
+    height: 90%;
+    background: #fff;
+    color: #151e3f;
+    transition: all 0.9s ease;
+    cursor: pointer;
+    h1 {
+      font-size: 14px;
+      color: black;
     }
+    p {
+      font-size: 10px;
+      color: black;
+      margin-bottom: 20px;
+      transition: all 0.9s ease;
+      transform: scale(0.1);
+    }
+    .btn {
+      background-color: black;
+      color: white;
+      padding: 10px;
+      text-decoration: none;
+    }
+    &:hover {
+      opacity: 0.8;
+      width: 90%;
+      transition: all 0.5s ease;
+    }
+  }
 }
