@@ -1,7 +1,7 @@
 import React from "react"
 
 import Layout from "../components/layout"
-import SEO from "../components/SEO"
+import seo from "../components/seo"
 // Components
 import Header from "../components/Header"
 import Work from "../components/Work"
@@ -13,7 +13,7 @@ import Footer from "../components/Footer"
 const IndexPage = () => {
   return (
     <Layout>
-      <SEO title="Lindseys Portfolio" />
+      <seo title="Lindseys Portfolio" />
       <Header></Header>
       <About></About>
       <Skills></Skills>
