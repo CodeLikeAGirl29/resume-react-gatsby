@@ -3,7 +3,7 @@
 A clean and simple portfolio template built with HTML, CSS and React.js. ❥❥
 
 Link can be found [here](https://resume-react-gatsby.vercel.app/).
-Contact email is [admin@lindseyk.dev](mailto:admin@lindseyk.dev)
+Contact email is [admin@lindseyk.dev](mailto:codelikeagirl91@gmail.com)
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
@@ -20,8 +20,8 @@ Contact email is [admin@lindseyk.dev](mailto:admin@lindseyk.dev)
 ### Setup
 
 ```shell
-git clone https://github.com/codelikeagirl29/my-reactjs-portfolio
-cd my-reactjs-portfolio
+git clone https://github.com/codelikeagirl29/resume-react-gatsby.git
+cd resume-react-gatsby
 ```
 and then to install and view in browser.
 
